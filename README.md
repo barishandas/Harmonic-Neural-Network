@@ -26,7 +26,7 @@ This project implements a Physics-Informed Neural Network (PINN) for solving Par
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/harmonic-pde-solver.git
+git clone https://github.com/barishandas/Harmonic-Neural-Network.git
 
 # Create a virtual environment
 python -m venv venv
